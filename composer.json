@@ -1,0 +1,23 @@
+{
+    "name": "thisisbd/silverstripe-cms-branding",
+    "description": "Set the Application Name and Link, Change the CMS Logo and Loading Screen Image and choose to show or hide the Help and Report Admin link from the CMS Settings.",
+    "type": "silverstripe-module",
+    "homepage": "http://github.com/thisisbd/silverstripe-cms-branding",
+    "keywords": [
+        "silverstripe","cms branding"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {"name": "Darren-Lee Joseph","email": "darrenleejoseph@gmail.com"}
+    ],
+    "support": {
+        "issues": "http://github.com/thisisbd/silverstripe-cms-branding/issues"
+    },
+    "require": {
+        "silverstripe/cms": "~3.1",
+        "silverstripe/framework": "~3.1"
+    },
+    "extra": {
+        "installer-name": "cms-branding"
+    }
+}

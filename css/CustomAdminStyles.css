@@ -1,0 +1,7 @@
+.cms-logo a {
+    background: url("../images/BD-CMS-logo.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+}
+
+.ss-loading-screen .loading-logo {
+	background: transparent url(../images/cms-loading.png) no-repeat 50% 50%;
+}

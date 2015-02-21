@@ -1,0 +1,20 @@
+---
+Name: cms-branding
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+# YAML configuration for SilverStripe
+# See http://doc.silverstripe.org/framework/en/topics/configuration
+# Caution: Indentation through two spaces, not tabs
+LeftAndMain:
+#  extra_requirements_css:
+#    - cms-branding/css/CustomAdminStyles.css
+#  application_link: 'http://www.thisisbd.com'
+#  application_name: 'thisisbd'
+  extensions:
+    - CMSBrandingLeftAndMainExtension
+
+SiteConfig:
+  extensions:
+    - CMSBrandingSiteConfigExtension
