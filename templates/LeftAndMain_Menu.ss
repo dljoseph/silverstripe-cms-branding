@@ -30,12 +30,6 @@
 				</a>
 			</li>
 		<% end_loop %>
-		<li class="bookmarked-link first">
-        	<a href="admin/pages/edit/show/1">Edit "My popular page"</a>
-	    </li>
-	    <li class="bookmarked-link last">
-	        <a href="admin/pages/edit/show/99">Edit "My other page"</a>
-	    </li>
 		</ul>
 	</div>
 		
